@@ -1,5 +1,4 @@
 # Sprint5_Java
-Integrantes: Bastian Mariangel | Roberto Rivas | Patricio Bonnin | Ivan Mieres
 ![Contribuidores](https://img.shields.io/badge/contribuidores%20-%20cuatro%20-%20blue?cacheSeconds=7200
 ) ![Ultimo Commit](https://img.shields.io/badge/Ultimo%20Commit%20-%2027%2F07%2F2023%20-%20orange%20?cacheSeconds=7200
 ) ![GitHub last commit](https://img.shields.io/badge/Lenguaje%20-%20Java%20-%20yelllow?cacheSeconds=7200
@@ -16,6 +15,27 @@ Integrantes: Bastian Mariangel | Roberto Rivas | Patricio Bonnin | Ivan Mieres
 )
 ![GitHub last commit](https://img.shields.io/badge/Roberto%20Rivas%20-%20%23F70910?cacheSeconds=7200
 )
+
+# Importante
+
+## Github Integrantes
+
+• Bastián Mariangel : https://github.com/BastianMariangel/Modulo_5_Sprint5
+
+• Roberto Rivas : https://github.com/RobertoRivasL/Sprint-5
+
+• Iván Mieres : https://github.com/iamamieres/Sprint5_Java
+
+• Patricio Bonnin : https://github.com/patriciobonnin/M5_-_Sprint_Final_Modulo_5_Desarrollo_de_Aplicaciones_Web_Dinanicas_Java
+
+## Informacion de Archivos del proyecto
+
+• Si desea conectarse a la base de datos del proyecto recuerde cambiar la contraseña y Usuario de MySQL
+en el archivo Conexion.java en la ruta: src\main\java\conexion\Conexion.java
+
+• La base de datos se encuentra en :  src\main\resources\bdPrevRiesgo.sql
+
+• El Archivo WAR del Proyecto se encuentra en : src\main\resources\Prevencion_De_Riesgos.war
 
 # Detalle
 Proyecto final del módulo aplicando los conceptos vistos en las sesiones respectivas. Se debe generar una aplicación web dinámica, usando el patrón de diseño MVC.
